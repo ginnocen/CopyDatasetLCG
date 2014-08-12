@@ -1,0 +1,1 @@
+lcg-cp -v srm://se01.cmsaf.mit.edu:8443//$1 $2
